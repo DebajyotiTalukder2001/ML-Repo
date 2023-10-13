@@ -3,6 +3,8 @@ This repository includes all the machine learning projects I completed during my
 
 * Task-I: House Price Prediction
 
+* Task-II: Wine Quality Prediction
+
 * Task-III: Iris Flowers Classification
 
 https://bharatintern.live/
