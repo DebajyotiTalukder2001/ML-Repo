@@ -4,79 +4,103 @@
 
 * Platform: Anaconda (Python Distribution), and Jupyter Notebook
 
-* Machine Learning Algorithms Used: Logistic Regression, Random Forest Classifier
+* Machine Learning Algorithms Used: Linear Regression, Logistic Regression, Random Forest Classifier
 
 * Dataset Source: Kaggle
 
 * Screenshots:
-
   
-![Screenshot (1592)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/0e4706a5-cd6f-4a2f-861c-cf769b5d1e97)
-
-
-![Screenshot (1593)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/408eacc5-281a-413c-9049-3c3062143461)
-
-
-![Screenshot (1594)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/c5aeabeb-169a-4987-9475-92a2537ba9d4)
-
-
-![Screenshot (1595)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/08bcad73-48de-415b-b859-0e9cc3b13b47)
-
-
-![Screenshot (1596)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/b0b49cb1-3b2c-4535-9a19-ef41d50b5f60)
-
-
-![Screenshot (1597)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/5ad3915e-8d3c-448a-ae1c-70ceed3691fa)
-
-
-![Screenshot (1598)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/3a69a153-66bc-4fe6-a86e-0653ec37e762)
+![Screenshot (1649)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/c0459274-07da-4993-b06d-68f21999715f)
 
 
 
-![Screenshot (1599)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/0a089f0d-fb97-4999-bfce-b141b3c0e407)
+![Screenshot (1650)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/a4363df5-0e29-473b-931b-d6f75ccde4fc)
 
 
 
-![Screenshot (1600)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/45176015-d256-41c5-bd47-72872950cb55)
+![Screenshot (1651)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/b34cbf97-78fa-49aa-864b-e99322325610)
+
+
+![Screenshot (1652)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/d5917c06-6d5e-4192-b284-0b620873ac05)
+
+
+![Screenshot (1653)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/d84c9bf5-8f98-4ba3-8253-8464fe61cf26)
+
+
+
+![Screenshot (1654)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/ecc3b9a9-ef7b-454e-8973-b2acad0fb89c)
+
+
+![Screenshot (1655)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/18aa61e5-e485-4774-8f3a-5347d33bfc87)
+
+
+
+![Screenshot (1656)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/f5b2646b-55b3-4ed5-8c27-6e49ba146b29)
+
+
+
+![Screenshot (1657)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/56801694-770e-45e5-afdf-f8e957253d8d)
+
+
+
+![Screenshot (1658)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/bf2ac749-2b4d-422d-b5c7-8f1fa2af5d18)
+
+
+
+![Screenshot (1659)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/4aa79dfb-13b8-4981-b40f-6ab2a7a3caac)
+
+
+![Screenshot (1660)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/0f9685ad-fe72-418f-85f7-227a8d15d562)
+
+
+![Screenshot (1661)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/5876c08d-0a79-4f55-bb47-b95d18a9980e)
+
+
+
+![Screenshot (1662)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/80378c6a-9200-453e-bc48-8aa3273452d9)
+
+
+![Screenshot (1663)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/e549c466-2e47-4d1d-b2fc-4f8eb3e46380)
+
+
+![Screenshot (1664)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/8173b9db-2503-424b-bba0-5e2328b6e4fb)
+
+
+
+![Screenshot (1665)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/daee4446-149e-44b6-a36d-f800aeb02d49)
 
 
 
 
-![Screenshot (1601)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/56071e85-d1f6-45a9-a282-8188d38366e8)
+![Screenshot (1666)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/2ba87906-a490-4c22-b292-e2459664194d)
+
+
+![Screenshot (1667)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/275d40c5-654f-4e53-87e0-10c8daab05be)
+
+
+![Screenshot (1668)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/38c64554-0b52-418f-b50c-52b32e25092e)
 
 
 
-![Screenshot (1602)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/7e7c721d-db85-4f6d-8e1e-177fa4a98f1e)
+
+![Screenshot (1669)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/76eca258-39e6-4008-b8c4-a389b4cab258)
 
 
 
 
-![Screenshot (1603)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/9050d42c-aa6c-48f6-848d-9b316d41d4e4)
 
 
 
-![Screenshot (1604)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/84222555-74dd-4cd0-b7d5-f2f14c778650)
 
 
 
-![Screenshot (1605)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/3cf62fdb-1d3b-40f3-8e8a-8d98c43cd116)
 
 
 
-![Screenshot (1606)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/0a9bfd72-5370-4b6b-a0ca-38e14a03162b)
-
-
-![Screenshot (1607)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/dc506825-07af-4cce-96be-9ea687e96794)
-
-
-![Screenshot (1608)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/858aae0e-7da5-42b8-a57b-f5ac36297b54)
 
 
 
-![Screenshot (1609)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/1082a1e0-e094-4455-bb1d-bfebc44b7dd1)
 
-
-![Screenshot (1610)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/25c5bace-126e-4daa-b274-c4f92cd1d9d6)
 
 
 
