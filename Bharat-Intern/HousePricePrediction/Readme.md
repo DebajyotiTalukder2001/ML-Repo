@@ -10,65 +10,79 @@
 
 * Screenshots:
 
-![Screenshot (1575)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/061d4cf7-efd0-4173-bb25-241029e3f641)
 
-![Screenshot (1576)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/62534a2e-bd86-4ab4-b5c5-f2291a1f2d19)
-
-
-![Screenshot (1577)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/927c8ad7-c293-4dcc-a265-c8c228d3f6f7)
+![Screenshot (1632)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/50dbd77d-ebf3-4680-9069-565cfb38835c)
 
 
 
-![Screenshot (1578)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/51eca158-6f38-43cc-9ce8-228aac032881)
+
+![Screenshot (1633)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/d889aef7-efe8-404a-9dc4-13fb7cee7a50)
 
 
 
-![Screenshot (1579)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/965c63f6-6e43-4576-8731-c2841c035e14)
 
-
-![Screenshot (1580)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/a647cdea-8d7c-40a6-8cc3-198a656adfd9)
-
-
-![Screenshot (1581)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/13aa26a3-0ced-4636-aaa0-620d4ec53b9b)
-
-
-![Screenshot (1582)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/e0e24b9f-c664-468b-9ba6-0548d723552f)
-
-
-![Screenshot (1583)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/09c6eb78-73b2-445d-909e-a27be0daacb1)
-
-
-![Screenshot (1584)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/19bffff8-9d88-40ee-bf8a-d3c8c3305f70)
-
-![Screenshot (1585)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/5cd2a968-0184-4d5e-8e80-5d037053ab7f)
-
-
-![Screenshot (1586)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/281d56b8-987b-49b3-a5dd-cc627cea470d)
+![Screenshot (1634)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/039bf39f-5a41-477a-9922-6f6b8cd5f64e)
 
 
 
-![Screenshot (1587)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/796d333f-db13-46e7-b8b1-b21086490953)
+
+
+![Screenshot (1636)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/6457d2e1-1593-4f1b-8d79-d86a530ee4b3)
 
 
 
-![Screenshot (1588)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/2b4b63aa-1665-4a0d-9df3-cce2a184e007)
+![Screenshot (1637)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/ab624708-5c6f-4b3d-b5a4-fc8d8c0a99fc)
 
 
 
-![Screenshot (1589)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/5131ecfc-190c-4f7e-b9bc-da3c07dca684)
 
 
-![Screenshot (1590)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/c0055e75-2a15-408d-90e6-01c7dfd6a8c7)
+![Screenshot (1638)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/571dc4f7-09e1-4dcf-8103-edbdeb24492f)
 
 
 
-![Screenshot (1591)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-Repo/assets/136104351/f036b078-e20e-4d99-b30a-21cf33bcbb1c)
+
+![Screenshot (1639)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/ff7425b7-ef3c-4861-99d9-09779bf7699f)
+
+
+
+![Screenshot (1640)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/439815fc-9460-493d-a23c-1b15ab50d00f)
+
+
+
+
+![Screenshot (1641)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/5917ebea-8efe-43c2-ba6d-90b66a8e1812)
+
+
+
+
+![Screenshot (1642)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/d85e6df2-e0e1-46d7-9552-a762fd6a2bff)
+
+
+
+![Screenshot (1643)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/a28e0a28-2be3-45b3-a0bc-9a7d7d75b6fc)
 
 
 
 
 
 
+
+![Screenshot (1645)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/ecf38355-c8c8-48de-b1dd-a155ffb3ae3b)
+
+
+
+
+![Screenshot (1646)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/3315f17a-2790-44a3-9198-eb97666887c6)
+
+
+
+
+![Screenshot (1647)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/e60bcf25-9fe1-4bd3-b275-7173925d3c17)
+
+
+
+![Screenshot (1648)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/a0d61f90-dd50-46f5-9df4-097d829cc8e5)
 
 
 
