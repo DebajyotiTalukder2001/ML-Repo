@@ -1,4 +1,4 @@
-<h1>Iris-Flower-Classification</h1>
+![Screenshot (1631)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/4ff2502d-dfe6-4fd7-99e2-7938d3c8c45a)<h1>Iris-Flower-Classification</h1>
 
 * Technologies Used: Python, Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
@@ -28,9 +28,6 @@
 
 
 
-![Screenshot (1617)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/7deb4b41-114d-4e94-9792-c85a1803f8d4)
-
-
 
 
 ![Screenshot (1618)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/cf48dd6d-8bcf-4c7c-831c-784053125615)
@@ -42,14 +39,11 @@
 
 
 
+![Screenshot (1631)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/0ef98200-070f-44a1-b5c6-fe93607a88b8)
 
 
 
 ![Screenshot (1621)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/834610b8-ad9a-4367-806f-9158d525e7fa)
-
-
-
-
 
 
 
