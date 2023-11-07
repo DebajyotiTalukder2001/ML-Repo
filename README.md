@@ -7,4 +7,6 @@ This repository includes some of my machine learning projects.
 
 * III: Iris Flowers Classification
 
+* IV: Heart Disease Prediction
+
 
