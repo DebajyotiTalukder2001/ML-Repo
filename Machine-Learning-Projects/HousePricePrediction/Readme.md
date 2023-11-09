@@ -2,7 +2,7 @@
 
 * Technologies Used: Python, Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
-* Platform: Anaconda (Python Distribution), and Jupyter Notebook
+* Platform: Google Colab, Visual Studio Code IDE
 
 * Machine Learning Algorithm Used: Linear Regression
 
