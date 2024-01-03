@@ -1,5 +1,5 @@
 # ML-Repo
-This repository includes machine learning projects I worked on.
+This repository includes some machine learning projects I worked on.
 
 * I: House Price Prediction
 
