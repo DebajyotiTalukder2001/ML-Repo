@@ -9,4 +9,6 @@ This repository includes some machine learning projects I worked on.
 
 * IV: Heart Disease Prediction
 
+* V: Brain Tumor Detection using CNN
+
 
