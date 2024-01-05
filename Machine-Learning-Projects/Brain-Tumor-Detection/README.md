@@ -30,108 +30,79 @@ The dataset is already divided into train, test, and prediction. The train folde
 
 <h2>Screenshots:</h2>
 
-![Screenshot (1716)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/6eda2a66-2213-43bb-9ca3-3e994c5a4bf7)
+![Screenshot (1894)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/6ded205f-7f2c-4551-99c8-285100d97d0f)
 
 
 
-![Screenshot (1717)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/b9d1e66f-66cc-4372-96d8-bbe39a21eb90)
+![Screenshot (1895)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/2d6cc73c-cb80-4aa1-b48c-8401b1a9e76b)
 
-![Screenshot (1718)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/999fa578-5a20-4b12-b8c1-f87e6707c2a9)
 
 
 
 
+![Screenshot (1896)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/3a93b08d-b942-4a4c-8853-fe9e38dd5b26)
 
-![Screenshot (1735)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/cb8114b1-f362-4297-bb43-c70ebd675325)
 
 
 
+![Screenshot (1897)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/8e9ea3cc-b216-4dbd-a49a-7b023b880f5a)
 
 
-![Screenshot (1753)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/0d5ab76a-0716-4cea-ab4d-e87725942334)
 
 
+![Screenshot (1899)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/1980a90d-99ed-4189-be9d-310081bf762b)
 
 
-![Screenshot (1754)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/c5cf12e9-28a7-4156-a2a2-0cbc68ff5313)
 
 
 
-![Screenshot (1755)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/808677d9-d3a4-45d9-8fc7-ee56e82fc874)
+![Screenshot (1900)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/5876afaa-0102-4ccf-af8e-9f811c12b114)
 
 
 
 
+![Screenshot (1901)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/10987d85-b5a0-4cb2-abdc-a632ea88aa8b)
 
-![Screenshot (1745)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/e050e4a1-b58b-45bc-8f2d-51ad803e5d71)
 
 
+![Screenshot (1902)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/2c15b132-ec05-4930-865a-620e3b905d7d)
 
-![Screenshot (1756)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/f1cdf5fb-3cc5-496d-a165-7ce09f23be7d)
 
 
-![Screenshot (1725)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/c9c63f56-f299-4931-bca6-5d591f6bb56a)
 
+![Screenshot (1903)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/212c72ae-eba5-4752-b4a0-cc4dd1a11205)
 
 
-![Screenshot (1726)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/a33d72f9-8acc-43f7-9893-9f456235f855)
 
 
+![Screenshot (1904)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/6b746c26-42c2-4ae0-a9e7-741245e82b58)
 
 
-![Screenshot (1741)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/cfa7cf59-790e-4738-bac0-ffea54094997)
 
 
 
-![Screenshot (1742)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/4125ee95-d6e3-489c-bf50-13bcf0e566df)
+![Screenshot (1905)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/3d5327c6-dced-4799-9952-f98f157076c5)
 
 
 
 
-![Screenshot (1757)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/7effe5c8-dc68-4bcc-93aa-f7af65852a4d)
+![Screenshot (1906)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/585b57ce-63d3-4d24-bc53-cb7279d8ffa6)
 
 
 
-![Screenshot (1758)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/d8f46187-464f-49a5-95a8-cc6a083e7010)
 
 
-![Screenshot (1759)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/9e37f515-80f6-4374-9d79-a7693460a808)
+![Screenshot (1907)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/ca0c9c13-52c1-48ed-8391-2011df5eb1b9)
 
 
-![Screenshot (1728)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/f84c9149-c8a7-4695-9f30-3b53faea21f0)
 
 
+![Screenshot (1908)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/f25b8862-3840-48e0-a349-a1d32e869f28)
 
 
-![Screenshot (1729)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/9a1cf3f4-4a83-465e-90e6-bf0aea80be1c)
 
 
-
-
-![Screenshot (1730)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/c93aacb9-5de9-4367-8603-795464810240)
-
-
-
-
-![Screenshot (1731)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/675a6287-a652-4fe0-88a7-438c74365373)
-
-
-
-![Screenshot (1732)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/9da6b0d2-a013-4bb7-b344-f18a96d145d0)
-
-
-
-![Screenshot (1733)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/3c6f58c0-05e4-4983-8bbe-be63511340fa)
-
-
-
-![Screenshot (1751)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/17e7987c-1f1a-4a76-8678-e9aa4c062d27)
-
-
-![Screenshot (1749)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/993a61c6-8651-434c-bedb-bbbc4761ff97)
-
-![Screenshot (1752)](https://github.com/DebajyotiTalukder2001/BrainTumorDetection_Using_CNN/assets/136104351/a048069b-f016-4081-9701-07450874403a)
-
+![Screenshot (1909)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/93f161fd-8d1d-4bd1-8d2b-d5b979b8d381)
 
 
 
