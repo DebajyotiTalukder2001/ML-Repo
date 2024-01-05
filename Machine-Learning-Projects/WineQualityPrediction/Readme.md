@@ -8,7 +8,7 @@
 
 * Dataset Source: Kaggle
 
-* Screenshots:
+<h2>Screenshots:</h2>
   
 ![Screenshot (1649)](https://github.com/DebajyotiTalukder2001/Bharat_Intern-MLRepo/assets/136104351/c0459274-07da-4993-b06d-68f21999715f)
 
