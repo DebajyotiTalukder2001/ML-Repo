@@ -31,7 +31,7 @@ The dataset is already divided into train, test, and prediction. The train folde
 
 * Libraries: NumPy, Tensorflow, Keras, Matplotlib.
 
-* Framework Used: streamlit
+* Framework Used: Streamlit
 
 <h2>Screenshots:</h2>
 
