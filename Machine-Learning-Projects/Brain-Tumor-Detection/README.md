@@ -1,4 +1,4 @@
-# BrainTumorDetection_Using_CNN 
+# Brain Tumor Detection
 
 * Developed and implemented a deep learning-based system using TensorFlow and Keras for brain tumor detection from MRI images.
 * Built and trained a convolutional neural network architecture, utilizing Google Colab’s cloud environment, and achieved 93% accuracy in detecting tumors on MRI scans.
