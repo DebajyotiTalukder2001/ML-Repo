@@ -15,7 +15,7 @@ processing tasks. It is made up of multiple layers, including convolutional laye
 * Used streamlit and Google Colab localtunnel API to deploy the model. Now, using Streamlit, any machine learning or deep learning
 model and any Python project can be deployed with ease without worrying about the frontend.
 
-
+* <strong>CNN Tutorial: [Click Here](https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network)</strong>
 <h2>Dataset Used:</h2>
 Source: Kaggle
 
