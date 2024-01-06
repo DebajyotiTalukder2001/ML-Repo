@@ -50,28 +50,33 @@ The dataset is already divided into train, test, and prediction. The train folde
 
 
 
-![Screenshot (1899)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/1980a90d-99ed-4189-be9d-310081bf762b)
+![Screenshot (1946)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/a2a65499-6f30-4214-96d1-cff249542bc5)
+
+
+
+
+![Screenshot (1947)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/d7bb42aa-b56d-4562-a7e7-639640cbf76a)
+
+
+
+![Screenshot (1948)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/d064fc70-6c4d-4b2d-b046-ae96ac71063f)
 
 
 
 
 
-![Screenshot (1900)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/5876afaa-0102-4ccf-af8e-9f811c12b114)
+![Screenshot (1949)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/f065cdc4-8b0d-4ecd-bd7f-45764b2a5fb0)
 
 
 
 
-![Screenshot (1901)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/10987d85-b5a0-4cb2-abdc-a632ea88aa8b)
-
-
-
-![Screenshot (1902)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/2c15b132-ec05-4930-865a-620e3b905d7d)
+![Screenshot (1950)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/1e7a7c70-bc59-490f-bdd2-41c9367d8e17)
 
 
 
 
-![Screenshot (1903)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/212c72ae-eba5-4752-b4a0-cc4dd1a11205)
 
+![Screenshot (1951)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/288c3faa-be83-4be3-bfe7-a870d67294e9)
 
 
 
@@ -103,6 +108,66 @@ The dataset is already divided into train, test, and prediction. The train folde
 
 
 ![Screenshot (1909)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/93f161fd-8d1d-4bd1-8d2b-d5b979b8d381)
+
+
+![Screenshot (1916)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/0526a4c2-1c4b-490b-b4a1-847194e185cb)
+
+
+
+
+![Screenshot (1917)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/dfc5848a-6c1e-4483-9536-13fd96dd996b)
+
+
+
+
+
+![Screenshot (1935)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/55aeb5ef-54bb-4b7d-8471-aefd82413387)
+
+
+
+
+![Screenshot (1936)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/85481a4d-94af-430e-bb91-6812f251404d)
+
+
+
+
+
+![Screenshot (1938)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/328e0a36-d8a5-4fde-b2c9-3f0c69779223)
+
+
+
+
+
+![Screenshot (1940)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/1389a784-5b20-4ef2-8310-391c31d5c2f4)
+
+
+
+
+![Screenshot (1941)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/c01c2a82-a7ba-481a-828d-7a4e5dbf92eb)
+
+
+
+
+
+![Screenshot (1942)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/69f569b7-ff10-4f4d-9ebd-eeaf2a98317e)
+
+
+
+
+
+![Screenshot (1943)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/67d54cba-8320-4523-b704-e90d69b7a32e)
+
+
+
+
+
+![Screenshot (1944)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/a7be4b3d-c979-40b0-a82c-04cb0311a95b)
+
+
+
+
+
+![Screenshot (1945)](https://github.com/DebajyotiTalukder2001/ML-Repo/assets/136104351/6f09bcf9-eb05-4d32-ad70-544c727c17fa)
 
 
 
