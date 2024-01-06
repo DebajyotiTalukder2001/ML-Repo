@@ -1,4 +1,4 @@
-<h1>Iris-Flower-Classification</h1>
+<h1>Iris Flower Classification</h1>
 
 * Technologies Used: Python, Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
