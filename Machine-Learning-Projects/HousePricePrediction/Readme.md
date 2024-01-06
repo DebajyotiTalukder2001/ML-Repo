@@ -1,4 +1,4 @@
-<h1>House-Price-Prediction</h1>
+<h1>House Price Prediction</h1>
 
 * Technologies Used: Python, Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
