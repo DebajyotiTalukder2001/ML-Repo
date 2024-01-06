@@ -1,6 +1,9 @@
-# BrainTumorDetection_Using_CNN
-<strong>Brain Tumor Detection System using CNN:<strong><br>
+# BrainTumorDetection_Using_CNN 
 
+* Developed and implemented a deep learning-based system using TensorFlow and Keras for brain tumor detection from MRI images.
+* Built and trained a convolutional neural network architecture, utilizing Google Colab’s cloud environment, and achieved 93% accuracy in detecting tumors on MRI scans.
+* Deployed the model by creating a user-friendly web app using Streamlit’s intuitive framework for rapid model deployment and streamlined development, reducing deployment time significantly.
+  
 * Magnetic resonance imaging (MRI) is the imaging technique used to diagnosing brain tumor disease. Early diagnosis of brain tumors is an essential task in medical work to find out whether the tumor can potentially become cancerous. This brain tumor detection system is a system that will predict whether the given image (MRI) of the brain has a tumor or not.
 
 * Deep learning methods are now often applied for object identification, classification, and feature extraction. A
@@ -18,15 +21,17 @@ Source: Kaggle
 
 The dataset is already divided into train, test, and prediction. The train folder contains the images which will be passed as a training dataset. The test folder contains the images which will be passed as a test dataset. Then we finally predict the result by passing an image from our prediction dataset.
 
+* <strong>Image Classification using TensorFlow Tutorial: [Click Here](https://www.tensorflow.org/tutorials/images/classification)</strong>
+
 <h2>Technologies:</h2>
 
 *	Programming Language: Python (Version-3.11).
 
 *	Platform: Google Colab, Visual Studio Code IDE.
 
-*   Libraries: NumPy, Tensorflow, Keras, Matplotlib.
+* Libraries: NumPy, Tensorflow, Keras, Matplotlib.
 
-*   Framework Used: streamlit
+* Framework Used: streamlit
 
 <h2>Screenshots:</h2>
 
