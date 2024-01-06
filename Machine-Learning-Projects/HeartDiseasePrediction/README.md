@@ -1,4 +1,4 @@
-# HeartDiseasePrediction
+# Heart Disease Prediction
 
 * Technologies Used: Python, Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn
 
