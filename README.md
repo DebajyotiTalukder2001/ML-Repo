@@ -11,4 +11,4 @@ This repository includes some machine learning projects I worked on.
 
 * V: Brain Tumor Detection using CNN
 
-
+[@CodeSpeedy-Projects](https://github.com/DebajyotiTalukder2001/CodeSpeedy-Projects)
