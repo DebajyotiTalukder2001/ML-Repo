@@ -1,5 +1,5 @@
 # ML-Repo
-This repository includes some machine learning projects I worked on.
+This repository includes the machine learning projects I worked on.
 
 * I: House Price Prediction
 
@@ -11,4 +11,6 @@ This repository includes some machine learning projects I worked on.
 
 * V: Brain Tumor Detection using CNN
 
-[@CodeSpeedy-Repo](https://github.com/DebajyotiTalukder2001/CodeSpeedy-Repo)
+<h2>CodeSpeedy-Repo</h2>
+
+[CodeSpeedy-Repo](https://github.com/DebajyotiTalukder2001/CodeSpeedy-Repo)
